@@ -1,2 +1,2 @@
 # web-page
-a web page for fun
+Web page for testing and learning!
